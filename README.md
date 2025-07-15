@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: [Visit Website](https://preview--one-kbanks-revamp-shop.lovable.app/#merch)
+**URL**: [Visit Website](https://one-kbanks-revamp-shop.vercel.app/#home)
 
 ## How can I edit this code?
 

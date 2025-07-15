@@ -23,3 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 CLAUDE.md
+.claude
+# Backend
+backend/node_modules
+backend/.env
+backend/uploads

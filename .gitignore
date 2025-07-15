@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-
+.env
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -23,3 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 CLAUDE.md
+.claude
+# Backend
+backend/node_modules
+backend/.env
+backend/uploads

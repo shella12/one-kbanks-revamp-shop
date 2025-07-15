@@ -2,17 +2,11 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/17e1a5cd-fdc4-4667-971a-988ce44cceea
+**URL**: [Visit Website](https://preview--one-kbanks-revamp-shop.lovable.app/#merch)
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/17e1a5cd-fdc4-4667-971a-988ce44cceea) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
